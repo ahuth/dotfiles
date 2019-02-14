@@ -17,5 +17,8 @@
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
   "explorer.autoReveal": false,
-  "workbench.iconTheme": "vs-minimal"
+  "workbench.iconTheme": "vs-minimal",
+  "editor.fontSize": 14,
+  "explorer.confirmDragAndDrop": false,
+  "editor.acceptSuggestionOnEnter": "off"
 }
