@@ -18,6 +18,7 @@
     ".gems/"
   ],
   "ensure_newline_at_eof_on_save": true,
+  "find_selected_text": true,
   "font_size": 14,
   "ignored_packages":
   [
