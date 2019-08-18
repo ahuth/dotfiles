@@ -26,6 +26,5 @@
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "vs-minimal",
-  "workbench.list.openMode": "doubleClick",
-  "workbench.statusBar.feedback.visible": false
+  "workbench.list.openMode": "doubleClick"
 }
