@@ -26,6 +26,6 @@
   "window.title": "${activeEditorMedium}${separator}${rootName}",
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.enablePreview": false,
-  "workbench.iconTheme": "vs-minimal",
+  "workbench.iconTheme": "macos-modern-color-icon-theme",
   "workbench.list.openMode": "doubleClick"
 }
