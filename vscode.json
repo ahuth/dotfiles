@@ -17,6 +17,7 @@
     "typescriptreact"
   ],
   "explorer.autoReveal": false,
+  "explorer.compactFolders": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.openEditors.visible": 0,
   "files.insertFinalNewline": true,
