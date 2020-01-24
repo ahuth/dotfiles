@@ -11,10 +11,10 @@
   "editor.wordWrapColumn": 100,
   "editor.scrollBeyondLastLine": false,
   "eslint.validate": [
-      "javascript",
-      "javascriptreact",
-      "typescript",
-      "typescriptreact"
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
   ],
   "explorer.autoReveal": false,
   "explorer.compactFolders": false,
