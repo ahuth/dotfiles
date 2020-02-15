@@ -30,5 +30,8 @@
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "macos-modern-color-icon-theme",
-  "workbench.list.openMode": "doubleClick"
+  "workbench.list.openMode": "doubleClick",
+  "[rust]": {
+    "editor.tabSize": 4
+  }
 }
