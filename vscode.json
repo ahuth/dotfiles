@@ -1,5 +1,6 @@
 {
   "breadcrumbs.enabled": false,
+  "editor.acceptSuggestionOnCommitCharacter": false,
   "editor.acceptSuggestionOnEnter": "off",
   "editor.dragAndDrop": false,
   "editor.fontSize": 12,
