@@ -19,6 +19,13 @@ source $ZSH/oh-my-zsh.sh
 # User configuration
 
 # Prompt
+#
+# 1. Current working directory
+# 2. Git info
+# 3. Display '#' if sudo, otherwise '$'
+#
+#             1                   2                      3
+#       ┏━━━━━┻━━━━┓ ┏━━━━━━━━━━━━┻━━━━━━━━━━━┓ ┏━━━━━━━━┻━━━━━━━┓
 PROMPT='%F{yellow}%~ %F{cyan}$(git_prompt_info) %F{yellow}%(!.#.$) %{$reset_color%}'
 
 ZSH_THEME_GIT_PROMPT_PREFIX="("
