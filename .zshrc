@@ -23,9 +23,6 @@ source $ZSH/oh-my-zsh.sh
 # operations to work.
 unset LESS
 
-alias airbnb="cd ~/airlab/repos/airbnb"
-alias repos="cd ~/airlab/repos"
-
 # Theme
 # =====
 
