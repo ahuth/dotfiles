@@ -53,5 +53,5 @@ zstyle ':vcs_info:git*' formats " (%b %u%c)"
 # 3. %(!.#.$) conditionally shows a "#" when sudo, and "$" otherwise.
 #
 #                 1                    2                          3
-#                 ┣┓        ┏━━━━━━━━━━┻━━━━━━━━━━━┓           ┏━━┻━━━┓
+#                 ┃         ┏━━━━━━━━━━┻━━━━━━━━━━━┓           ┏━━┻━━━┓
 PROMPT='%F{yellow}%~%F{cyan}${vcs_info_msg_0_// )/)} %F{yellow}%(!.#.$) %{$reset_color%}'
