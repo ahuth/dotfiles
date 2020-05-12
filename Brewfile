@@ -1,25 +1,25 @@
-install bat
-install elixir
-install exercism
-install git
-install nvm
-install rbenv
-install rbenv-gemset
-install ruby-build
-install yarn
+brew "bat"
+brew "elixir"
+brew "exercism"
+brew "git"
+brew "nvm"
+brew "rbenv"
+brew "rbenv-gemset"
+brew "ruby-build"
+brew "yarn"
 
-cask install 1password
-cask install discord
-cask install firefox
-cask install google-chrome
-cask install licecap
-cask install microsoft-edge
-cask install ngrok
-cask install slack
-cask install spotify
-cask install steam
-cask install sublime-merge
-cask install sublime-text
-cask install tableplus
-cask install visual-studio-code
-cask install zoom
+cask "1password"
+cask "discord"
+cask "firefox"
+cask "google-chrome"
+cask "licecap"
+cask "microsoft-edge"
+cask "ngrok"
+cask "slack"
+cask "spotify"
+cask "steam"
+cask "sublime-merge"
+cask "sublime-text"
+cask "tableplus"
+cask "visual-studio-code"
+cask "zoom"
