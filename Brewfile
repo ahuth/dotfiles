@@ -9,6 +9,7 @@ brew "yarn"
 
 cask "1password"
 cask "discord"
+cask "docker"
 cask "firefox"
 cask "google-chrome"
 cask "licecap"
