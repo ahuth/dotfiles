@@ -1,6 +1,4 @@
 brew "bat"
-brew "elixir"
-brew "exercism"
 brew "git"
 brew "rbenv"
 brew "rbenv-gemset"
