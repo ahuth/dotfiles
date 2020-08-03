@@ -28,7 +28,6 @@
   "telemetry.enableTelemetry": false,
   "window.title": "${activeEditorMedium}${separator}${rootName}",
   "workbench.activityBar.visible": false,
-  "workbench.colorTheme": "Dracula",
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "macos-modern-color-icon-theme",
