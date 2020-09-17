@@ -8,7 +8,6 @@ brew "ruby-build"
 brew "yarn"
 
 cask "1password"
-cask "discord"
 cask "docker"
 cask "firefox"
 cask "google-chrome"
