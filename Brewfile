@@ -1,5 +1,7 @@
 brew "bat"
 brew "git"
+brew "nodenv"
+brew "node-build"
 brew "rbenv"
 brew "rbenv-gemset"
 brew "ruby-build"

@@ -12,7 +12,7 @@ export ZSH=$HOME/.oh-my-zsh
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git nvm rbenv)
+plugins=(git rbenv)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -55,3 +55,8 @@ zstyle ':vcs_info:git*' formats " (%b %u%c)"
 #                 1                    2                          3
 #                 ┃         ┏━━━━━━━━━━┻━━━━━━━━━━━┓           ┏━━┻━━━┓
 PROMPT='%F{yellow}%~%F{cyan}${vcs_info_msg_0_// )/)} %F{yellow}%(!.#.$) %{$reset_color%}'
+
+# Initialization
+
+# nodenv
+eval "$(nodenv init -)"
