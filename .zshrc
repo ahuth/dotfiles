@@ -48,12 +48,12 @@ zstyle ':vcs_info:git*' formats " (%b %u%c)"
 
 # Configure the prompt.
 #
-# 1. %~ is the current working directory, with "~" substituted for the home directory.
-# 2. vcs_info_msg_0_ is the git info, and the "// )/)" replaces any occurances of " )" with ")".
-# 3. %(!.#.$) conditionally shows a "#" when sudo, and "$" otherwise.
+# 1. Current working directory, with "~" substituted for the home directory.
+# 2. Git info. The "// )/)" replaces any occurances of " )" with ")".
+# 3. $ normally, or # when sudo.
 #
-#                 1                    2                          3
-#                 ┃         ┏━━━━━━━━━━┻━━━━━━━━━━━┓           ┏━━┻━━━┓
+#             1                    2                         3
+#       ┏━━━━━┻━━━━┓┏━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━┓ ┏━━━━━━━┻━━━━━━━━┓
 PROMPT='%F{yellow}%~%F{cyan}${vcs_info_msg_0_// )/)} %F{yellow}%(!.#.$) %{$reset_color%}'
 
 # Initialization
