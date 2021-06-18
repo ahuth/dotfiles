@@ -5,6 +5,7 @@ brew "node-build"
 brew "rbenv"
 brew "rbenv-gemset"
 brew "ruby-build"
+brew "tldr"
 brew "yarn"
 
 cask "1password"
