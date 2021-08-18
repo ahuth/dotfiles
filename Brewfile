@@ -7,7 +7,6 @@ brew "rbenv-gemset"
 brew "ruby-build"
 brew "yarn"
 
-cask "1password"
 cask "docker"
 cask "firefox"
 cask "google-chrome"
