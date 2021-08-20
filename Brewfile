@@ -8,6 +8,7 @@ brew "ruby-build"
 brew "yarn"
 
 cask "docker"
+cask "figma"
 cask "firefox"
 cask "google-chrome"
 cask "ngrok"
